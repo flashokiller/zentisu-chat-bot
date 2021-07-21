@@ -1,7 +1,7 @@
-# RikaChatBot
+# ZENTISU CHAT BOT
 Just another Telegram AI chat bot written in Python using Pyrogram.
 
-A public running instance can be found on telegram as [@RikaChatBot](https://t.me/RikaChatBot).
+A public running instance can be found on telegram as [@ZENTISUCHATBOT](https://t.me/ZENTISUCHATBOT).
 
 <img src="https://telegra.ph/file/0ef0afcdc2ca84e0ac2c4.jpg" width="200" align="right">
 
