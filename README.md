@@ -21,3 +21,4 @@ A public running instance can be found on telegram as [@ZENTISUCHATBOT](https://
 4. Edit `config.py` with your own values.!
 5. Run with `python3.9 zentisu.py`
 
+Thnx to @thehamckercat
