@@ -3,7 +3,7 @@ Just another Telegram AI chat bot written in Python using Pyrogram.
 
 A public running instance can be found on telegram as [@RikaChatBot](https://t.me/RikaChatBot).
 
-<img src="https://telegra.ph/file/fb74c38f56323fb480709.jpg" width="200" align="right">
+<img src="https://telegra.ph/file/0ef0afcdc2ca84e0ac2c4.jpg" width="200" align="right">
 
 ## Requirements
 
@@ -15,9 +15,9 @@ A public running instance can be found on telegram as [@RikaChatBot](https://t.m
 
 #FOR HERUKO JUST FORK THEN EDIT THEN CONNECT THE REPO AND TURN ON THE DYNOS !
 
-1. `git clone https://github.com/Friends-Zone/rikachatbot`
-2. `cd rikachatbot`
+1. `git clone https://github.com/Flashokiller/zentisu-chat-bot`
+2. `cd zentisu-chat-bot`
 3. `pip3 install -r requirements.txt` to install the requirements.
 4. Edit `config.py` with your own values.!
-5. Run with `python3.9 rika.py`
+5. Run with `python3.9 zentisu.py`
 
